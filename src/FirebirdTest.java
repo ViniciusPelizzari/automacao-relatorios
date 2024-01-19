@@ -13,7 +13,7 @@ public class FirebirdTest {
      */
     public static Connection conexao(){
         // configuração da conexão com o banco de dados Firebird
-        String url = "jdbc:firebirdsql://192.168.0.146:3055/C:\\Tek-System\\DadosTek-Teste\\EXC_DADOSMC_SFERA\\HOMOLOGACAO(CUSTO ESTOQUE).fdb?encoding=ISO8859_1";
+        String url = "jdbc:firebirdsql://xxx.xxx.x.xxx:3055/C:\\xxx-xxxxxx\\DadosTek-Teste\\EXC_DADOSMC_SFERA\\HOMOLOGACAO(CUSTO ESTOQUE).fdb?encoding=ISO8859_1";
         String user = "SYSDBA";
         String password = "masterkey";
 
